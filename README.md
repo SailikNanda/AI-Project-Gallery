@@ -34,7 +34,7 @@
 | 32 | GitHub Tracker | Data Analytics | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/GitPulse) | <p align="center">✔</p> |
 | 33 | Travel Planning Agent | Agentic AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner) | <p align="center">✔</p> |
 
- * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45) 
+ * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45)
 
 # Even more projects will be added soon!
 
