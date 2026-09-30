@@ -36,7 +36,7 @@
 
  * For additional End-to-End Projects — [<b>Follow me on GitHub</b>](https://github.com/KalyanM45)
 
-# Even more projects will be added shortly!
+# Even more projects will be uploaded shortly!
 
 | S No | Project Name | Domain | Repository |
 | ---- | ------------ | --------------- | ---------- |
