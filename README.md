@@ -42,7 +42,7 @@ A curated gallery of Artificial Intelligence projects — Machine Learning, Deep
 
  * For more end-to-end projects — [<b>Follow me on GitHub</b>](https://github.com/KalyanM45)
 
-# Even more projects will be uploaded shortly!
+# Even more projects will be uploaded soon!
 
 | S No | Project Name | Domain | Repository |
 | ---- | ------------ | --------------- | ---------- |
