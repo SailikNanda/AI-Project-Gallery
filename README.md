@@ -60,3 +60,11 @@ A curated gallery of Artificial Intelligence projects — Machine Learning, Deep
 | 08    | Brain Tumor Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 09    | Pneumonia Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 10    | Realtime Face Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+
+---
+
+<div align="center">
+
+Maintained by [Sailik Nanda](https://github.com/SailikNanda).
+
+</div>
