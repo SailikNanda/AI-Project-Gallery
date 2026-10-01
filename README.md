@@ -44,6 +44,10 @@ A curated gallery of Artificial Intelligence projects — Machine Learning, Deep
 
 # Even more projects will be uploaded soon!
 
+---
+
+## Coming Soon
+
 | S No | Project Name | Domain | Repository |
 | ---- | ------------ | --------------- | ---------- |
 | 01    | Deep Fake Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
