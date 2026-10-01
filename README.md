@@ -1,3 +1,9 @@
+# AI Project Gallery
+
+A curated gallery of Artificial Intelligence projects — Machine Learning, Deep Learning, and Generative AI.
+
+---
+
 | S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
 | 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
